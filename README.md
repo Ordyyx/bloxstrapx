@@ -1,4 +1,4 @@
-# bloxstrapx
+# BloxstrapX
 
 BloxstrapX is a third-party ROBLOX modification that does not interact with the standard Roblox bootstrapper, but does provide additional useful features and improvements.
 It is not designed to take away from Bloxstrap, the original project, but merely port some of the features over to MacOS devices.
